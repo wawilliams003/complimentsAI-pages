@@ -28,12 +28,6 @@ We use your information to:
 
 ---
 
-## 3. Data Storage & Security
-- Your data is stored securely and only retained as long as needed for the purposes described.  
-- We take reasonable measures to protect your information, but no method of storage or transmission is 100% secure.  
-
----
-
 ## 4. Sharing of Information
 We do **not** sell your data.  
 We may share limited information only in the following cases:  
